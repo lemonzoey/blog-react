@@ -1,0 +1,8 @@
+.pic{
+    margin-top: 40px;
+    background: red; 
+}
+.pic img {
+    width: 100%;
+    height: 110px;
+}

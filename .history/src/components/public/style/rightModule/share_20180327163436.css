@@ -1,0 +1,13 @@
+.share {
+    height: 80px;
+    background: white;
+    display: flex;
+    padding-left: 20px;
+}
+.share span{
+    background:pink;
+    color:white;
+    font-size:40px;
+    flex: 1;
+    margin: 1px 20px 12px 0px;
+}

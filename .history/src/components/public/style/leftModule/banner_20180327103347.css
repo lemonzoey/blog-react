@@ -1,0 +1,28 @@
+/* bigPIc的样式 开始*/
+.bigPic {
+  float: right;
+  width: 78%;
+}
+.ant-carousel .slick-slide {
+    text-align: center;
+    height: 160px;
+    line-height: 160px;
+    background: #364d79;
+    overflow: hidden;
+  }
+  
+  .ant-carousel .slick-slide h3 {
+    color: #fff;
+  }
+
+
+  /* bigPIc的样式 结束*/
+
+  /* littlePIc的样式 开始*/
+
+  .littlePic {
+    float: left;
+    width: 20%;
+  }
+
+   /* littlePIc的样式 结束*/

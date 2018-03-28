@@ -1,0 +1,12 @@
+.ad{
+    height: 40px;
+    line-height: 40px;
+    background: white;
+}
+.ad_left{
+    float: left;
+}
+.ad_right{
+    float:right;
+
+}

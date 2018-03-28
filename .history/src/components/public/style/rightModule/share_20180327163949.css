@@ -1,0 +1,31 @@
+.share {
+    height: 80px;
+    background: white;
+    display: flex;
+    padding-left: 20px;
+}
+.share span{
+    background:#f78585;
+    color:white;
+    font-size:40px;
+    flex: 1;
+    margin: 15px 20px 15px 0px;
+    text-align: center;
+    line-height: 50px;
+    borfer
+}
+.share span:nth-child(2){
+    background: #27ccc0;
+}
+.share span:nth-child(3){
+    background: #6fc299;
+}
+
+.share span:nth-child(4){
+    background: #eca3ac;
+}
+
+.share span:nth-child(5){
+    background: #ff7c49;
+}
+

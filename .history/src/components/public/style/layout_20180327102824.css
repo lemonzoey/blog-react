@@ -1,0 +1,33 @@
+.nav {
+    height: 50px;
+    line-height: 50px;
+    background: #4a4a4a;
+    padding:0 100px;
+    
+}
+.top{
+    height: 100px;
+    line-height: 100px;
+    color:white;
+    font-size:20px;
+    text-align: center;
+}
+.top span{
+    font-size:50px;
+}
+.header{
+    background:#d56363;
+    height: 150px;
+    padding: 0px;
+}
+
+.clearfloat:after{
+    display:block;
+    clear:both;
+    content:"";
+    visibility:hidden;
+    height:0
+} 
+.clearfloat{
+    zoom:1
+} 

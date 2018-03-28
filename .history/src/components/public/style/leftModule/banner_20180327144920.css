@@ -1,0 +1,47 @@
+.clearfloat:after{
+  display:block;
+  clear:both;
+  content:"";
+  visibility:hidden;
+  height:0
+} 
+.clearfloat{
+  zoom:1
+} 
+
+
+/* bigPIc的样式 开始*/
+.bigPic {
+  float: right;
+  width: 81%;
+}
+.ant-carousel .slick-slide {
+    text-align: center;
+    height: 300px;
+    line-height: 300px;
+    background: #364d79;
+    overflow: hidden;
+  }
+  
+  .ant-carousel .slick-slide h3 {
+    color: #fff;
+  }
+
+
+  /* bigPIc的样式 结束*/
+
+  /* littlePIc的样式 开始*/
+
+  .littlePic {
+    float: left;
+    width: 18%;
+    height: 300px;
+  }
+  .border{
+    padding: 5px;
+    background: white;
+  }
+  .border{
+      }    .
+
+   /* littlePIc的样式 结束*/

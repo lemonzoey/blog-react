@@ -1,0 +1,10 @@
+.footer{
+    height: 30px;
+    line-height: 30px;
+    position: absolute;
+    bottom: 10px;
+    right: 0px;
+}
+.footer span{
+    padding-right: 30px;
+}

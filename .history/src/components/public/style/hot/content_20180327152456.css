@@ -1,0 +1,12 @@
+.hot{
+    width: 100%;
+    height: 250px;
+    margin-top: 10px;
+    background: red;
+}
+.link{
+    float: left;
+}
+.like{
+    float: right;
+}

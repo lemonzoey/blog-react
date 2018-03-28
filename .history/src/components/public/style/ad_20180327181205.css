@@ -1,0 +1,21 @@
+.ad{
+    height: 40px;
+    line-height: 40px;
+    background: white;
+}
+.ad_left{
+    float: left;
+}
+.ad_left p{
+    padding-left: 20px;
+}
+.ad_right{
+    float:right;
+    color:#00a67c;
+}
+.ad_right span {
+    padding-right: 20px;
+}
+.ad_right span i,.ad_left p {
+    padding-right: 5px;
+}
