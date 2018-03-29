@@ -4,11 +4,11 @@ import { BigPic } from './bigPic'
 import { LittlePic } from './littlePic'
 export default class  extends React.Component<any, any> {
 render(){
-   return <div className=''>
+   return <div > 
    <LittlePic/>
    <BigPic/>
-   <div style={{clear:'both'}}></div>
    </div>
    }
 }
+
 

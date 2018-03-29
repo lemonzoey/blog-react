@@ -35,7 +35,7 @@ render(){
       <div style={{ margin: '0 0 16px' }}>
         <Ad/>
       </div>
-      <div style={{ background: '#f0f2f5',  minHeight: 280 }} >
+      <div style={{ background: '#f0f2f5',  minHeight: 280 }} className=' body'>
       {/* <Row>
          <Col xs={24} sm={24} md={24} lg={16} xl={16} ><LeftModuleBody/></Col>
          <Col xs={0} sm={0} md={0} lg={1} xl={1}></Col>

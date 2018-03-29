@@ -8,12 +8,20 @@
   float: right;
   width: 81%;
 }
-.bigPic img {
-  height: 300px;
-  width: 100%;
-}
-
+.ant-carousel .slick-slide {
+    text-align: center;
+    height: 300px;
+    line-height: 300px;
+    background: #364d79;
+    overflow: hidden;
+  }
   
+  .ant-carousel .slick-slide h3 {
+    color: #fff;
+  }
+  .banner .bigPic .ant-card-head {
+    height: 48px !important;
+  }
 
 
   /* bigPIc的样式 结束*/

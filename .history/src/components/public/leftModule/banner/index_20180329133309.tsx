@@ -7,8 +7,9 @@ render(){
    return <div className=''>
    <LittlePic/>
    <BigPic/>
-   <div style={{clear:'both'}}></div>
+   <div></div>
    </div>
    }
 }
+
 

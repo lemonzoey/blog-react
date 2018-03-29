@@ -17,4 +17,7 @@
     color:#00a67c;
   } 
 
+  .banner .bigPic .ant-card-head {
+    height: 48px !important;
+  }
 

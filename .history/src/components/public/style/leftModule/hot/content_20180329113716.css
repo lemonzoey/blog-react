@@ -12,9 +12,18 @@
     float: right;
     color:red;
 }
-
+.clearfloat:after{
+    display:block;
+    clear:both;
+    content:"";
+    visibility:hidden;
+    height:0
+  } 
+  .clearfloat{
+    zoom:1
+  }
   .ant-card-head-title{
     color:#00a67c;
   } 
 
-
+  
