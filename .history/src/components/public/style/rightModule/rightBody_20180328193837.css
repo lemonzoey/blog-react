@@ -1,0 +1,6 @@
+.rightModule{
+    width: 315px;
+    margin-left: -315px;
+    height: 500px;
+    float: right;
+}
