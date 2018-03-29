@@ -1,0 +1,40 @@
+.banner{
+  height: 300px;
+}
+
+
+/* bigPIc的样式 开始*/
+.bigPic {
+  float: right;
+  width: 81%;
+}
+.bigPic img {
+  height: 300px;
+  width: 100%;
+}
+
+  
+
+
+  /* bigPIc的样式 结束*/
+
+  /* littlePIc的样式 开始*/
+
+  .littlePic {
+    float: left;
+    width: 18%;
+    height: 300px;
+  }
+  .border{
+    padding: 4px;
+    margin:3px 0px;
+    background: white;
+  }
+  .border img{
+    h6
+  }
+  .border:hover{
+     background: rgb(173, 221, 188);
+  }  
+
+   /* littlePIc的样式 结束*/
