@@ -18,7 +18,7 @@ const FormItem = Form.Item;
           const { getFieldDecorator } = this.props.form;
           return (
             <div className='form-border'>
-             <Avatar size="large" icon="user" className='icon' />
+             <Avatar size="large" icon="user" className='' />
             <Form onSubmit={this.handleSubmit} className="login-form">
               <FormItem>
                 {getFieldDecorator('userName', {

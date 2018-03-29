@@ -2,7 +2,6 @@ import * as React from 'react';
 import { render } from 'react-dom';
 import '../../../components/public/style/login.css'
 import { Form, Icon, Input, Button, Checkbox } from 'antd';
-import { Avatar } from 'antd';
 const FormItem = Form.Item;
 
       class NormalLoginForm extends React.Component<any,any> {
@@ -17,8 +16,7 @@ const FormItem = Form.Item;
         render() {
           const { getFieldDecorator } = this.props.form;
           return (
-            <div className='form-border'>
-             <Avatar size="large" icon="user" className='icon' />
+            <div>
             <Form onSubmit={this.handleSubmit} className="login-form">
               <FormItem>
                 {getFieldDecorator('userName', {
@@ -48,7 +46,6 @@ const FormItem = Form.Item;
                 Or <a href="">register now!</a>
               </FormItem>
             </Form>
-            </div>
           );
         }
       }
